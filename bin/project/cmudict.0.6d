@@ -1,0 +1,160 @@
+A	                AE L F AH
+B               	B R AA V OW
+B(2)               	B R AA V UW
+C              		CH AA R L IY
+D                	D EH L T AH
+E                 	EH K OW
+E(2)               	EH K UW
+F                  	F AA K S
+F(2)				F AA K S T R AA T
+G                 	G AA L F
+G(2)              	G AO L F
+H                	HH OW T EH L
+H(2)               	OW T EH L
+I                	IH N D IY AH
+J               	JH UW L IY EH T
+K                 	K IH L OW
+K(2)                K IH L UW
+L                	L AY M AH
+L(2)              	L IY M AH
+M                 	M AY K
+N            	 	N OW V EH M B ER
+O              		AO S K ER
+P                 	P AA P AH
+Q               	K W AH B EH K
+R                	R OW M IY OW
+R(2)                R OW M EH OW
+R(3)                R OW M IY UW
+R(4)                R OW M EH UW
+S               	S IY EH R AH
+T                	T AE NG G OW
+T(2)               	T AA NG G OW
+T(3)               	T AH NG G OW
+T(4)               	T AE NG G UW
+T(5)               	T AA NG G UW
+T(6)               	T AH NG G UW
+U              		Y UW N AH F AO R M
+U(2)				UW N AH F AO R M
+V              		V IH T ER
+W                	HH W IH S K
+W(2)             	W IH S K
+X					EH K S R EY
+Y					Y AE NG K
+Y(2)				Y AE NG K IY
+Z                 	Z UW L UW
+
+N 					N
+O 					OW
+V 					V 
+E					EH
+M					M 
+B					B 
+ER					ER
+
+BAW                	S P IY D B ER D
+AAL             	AH M EH R AH K AH N 
+AAL(2)          	AH M EH R IH K AH N 
+AAL(3)           	AH M EH R IH K AH N Z 
+AAL(4)            	AH M EH R AH K AH N Z
+UAL  	        	Y UW N AY T
+UAL(2)              Y UW N AY T AH D
+UAL(3)            	Y UW N AY T IH D
+UAL(4)             	Y UW N AY T AH D Z
+UAE              	EH M ER AH T
+UAE(2)             	EH M ER AH T S
+UAE(3)          	EH M ER EY T S
+UAE(4)           	EH M ER EY T
+AFR			        EH R F R AE N S
+CWC					CH AE L AH N JH
+AWE           		K AE K T AH S
+AEY	                EH R IH T AH L IY
+DLH            		L AH F T AE N Z AH
+AEA               	Y UH R OW P AH
+AEA(2)              Y UH R AH P
+THY              	T ER K IH SH
+CCA					EH R CH AY N AH
+TAP                 EH R P AO R CH AH G AH L
+SIA            		S IH NG AH P AO R
+ARG            		AA R JH AH N T IY N AH
+ARG(2)         		AA R JH AH N T IY N AH Z
+ARG(3)           	AA R JH AH N T IY N AH Z
+ARG(4)            	AA R JH AH N T IY N
+ARG(5)           	AA R JH AH N T IY N Z
+
+ZERO             	Z IY R OW
+ZERO(2)             Z IY R AO
+ZERO(3)             Z IY R UW
+ONE                 HH W AH N
+ONE(2)              W AH N
+TWO                 T UW
+TWO(2)				CH UW
+THREE               TH R IY
+THREE(2)            T R IY
+FOUR                F AO R
+FIVE                F AY V
+SIX                 S IH K S
+SEVEN               S EH V AH N
+EIGHT               EY T
+NINE                N AY N
+NINE(2)             N AY N AH
+DECIMAL             D EH S AH M AH L
+MILES               M AY AH L Z
+MILES(2)            M AY L Z
+MILE                M AY AH L
+MILE(2)             M AY L
+
+
+SQUAWK              S K W AO K
+IDENT         		AY D EH N T IH
+IDENT(2)			AY D EH N T
+IDENT(3)			AY D EH N AH T IY
+IDENT(4)			AY D EH N AH T	
+FLIGHT              F L AY T
+CLIMB               K L AY M
+DECENT              D IY S AH N T
+DISSENT             D IH S EH N T
+MAINTAIN            M EY N T EY N
+LEVEL               L EH V AH L
+TO                  T AH
+TO(2)               T IH
+TO(3)               T UW
+CLEARED             K L IH R D
+CONTACT             K AA N T AE K T
+CONTACT(2)          K AA N T AE K
+FREQUENCY           F R IY K W AH N S IY
+ON                  AA N
+ON(2)               AO N
+APPROACH            AH P R OW CH
+DEVIATION           D IY V IY EY SH AH N
+BY                  B AY
+RIGHT               R AY T
+LEFT                L EH F T
+THE                 DH AH
+THE(2)              DH IY
+HEADING             HH EH D IH NG
+INTERSECTION        IH N ER S EH K SH AH N
+INTERSECTION(2)     IH N T ER S EH K SH AH N
+FLY                 F L AY
+DIRECT              D AY R EH K T
+DIRECT(2)           D ER EH K T
+DIRECT(3)           D IH R EH K T
+DIRECT(4)           D IY R EH K T
+UNTIL               AH N T IH L
+STAND               S T AE N D
+
+RECIFE              R EH S AH F IY
+RECIFE(2)			R EH S AH F IH
+ATLANTIC            AH T L AE N IH K
+ATLANTIC(2)         AH T L AE N T IH K
+CENTER              S EH N ER
+CENTER(2)           S EH N T ER
+AMAZON              AE M AH Z AA N
+
+MIDGE               M IH JH
+FIBER               F AY B ER
+ANDER               AE N D ER
+ABDUL               AE B D UW L
+GAMER               G EY M ER
+TETRA               T EH T R AH
+DAMAS               D AA M AH Z
+

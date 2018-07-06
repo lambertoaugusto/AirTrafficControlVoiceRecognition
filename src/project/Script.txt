@@ -1,0 +1,30 @@
+Recife center TAP681
+AFR456 squawk ident climb to flight level 370
+SIA321 squawk ident climb until flight level 290
+CWC799 cleared dissent to flight level 150
+*AWE981 squawk ident maintain flight level 310
+THY771 cleared climb to flight level 430
+*TAP681 deviation by the right 
+CCA652 heading 270 by 40 miles
+*DLH179 cleared fly direct A-B-D-U-L intersection
+AEA401 cleared fly direct GAMER intersection
+ARG442 climb until flight level 330
+BAW756 stand by
+AFR456 vector for spacing turn right heading 230
+
+ZERO             	Z IY R OW
+ZERO(2)             Z IY R AO
+ZERO(3)             Z IY R UW
+ONE                 HH W AH N
+ONE(2)              W AH N
+TWO                 T UW
+TWO(2)				CH UW
+THREE               TH R IY
+THREE(2)            T R IY
+FOUR                F AO R
+FIVE                F AY V
+SIX                 S IH K S
+SEVEN               S EH V AH N
+EIGHT               EY T
+NINE                N AY N
+NINE(2)             N AY N AH

@@ -1,0 +1,76 @@
+ZERO    		 	Z E R U
+ZERO(2)             Z IY R OW
+ZERO(3)             Z IH R OW
+ONE                 HH W AH N
+ONE(2)              W AH N
+TWO                 T UW
+THREE               TH R IY
+FOUR                F AO R
+FIVE                F AY V
+SIX                 S IH K S
+SEVEN               S EH V AH N
+EIGHT               EY T
+NINE                N AY N
+
+!EXCLAMATION-POINT   EH K S K L AH M EY SH AH N P OY N T
+"OPEN-QUOTE          OW P AH N K W OW T
+"CLOSE-QUOTE         K L OW Z K W OW T
+"DOUBLE-QUOTE        D AH B AH L K W OW T
+"END-OF-QUOTE        EH N D AH V K W OW T
+"END-QUOTE           EH N D K W OW T
+"IN-QUOTES           IH N K W OW T S
+"QUOTE               K W OW T
+"UNQUOTE             AH N K W OW T
+#SHARP-SIGN          SH AA R P S AY N
+%PERCENT             P ER S EH N T
+&AMPERSAND           AE M P ER S AE N D
+&AMPERSANDS          AE M P ER S AE N D S
+'CAUSE               K AH Z
+'COURSE              K AO R S
+'EM                  AH M
+'END-INNER-QUOTE     EH N D IH N ER K W OW T
+'END-QUOTE           EH N D K W OW T
+'INNER-QUOTE         IH N ER K W OW T
+'M                   AH M
+'N                   AH N
+'QUOTE               K W OW T
+'S                   EH S
+'SINGLE-QUOTE        S IH NG G AH L K W OW T
+'TIL                 T IH L
+'TIS                 T IH Z
+'TWAS                T W AH Z
+(BEGIN-PARENS        B IH G IH N P ER EH N Z
+(IN-PARENTHESES      IH N P ER EH N TH AH S IY Z
+(LEFT-PAREN          L EH F T P ER EH N
+(OPEN-PAREN          OW P AH N P ER EH N
+(OPEN-PARENTHESES    OW P AH N P ER EH N TH AH S IY Z
+(PAREN               P ER EH N
+(PARENS              P ER EH N Z
+(PARENTHESES         P ER EH N TH AH S IY Z
+)CLOSE-PAREN         K L OW Z P ER EH N
+)CLOSE-PARENTHESES   K L OW Z P ER EH N TH AH S IY Z
+)END-PAREN           EH N D P ER EH N
+)END-PARENS          EH N D P ER EH N Z
+)END-PARENTHESES     EH N D P ER EH N TH AH S IY Z
+)END-THE-PAREN       EH N D DH AH P ER EH N
+)PAREN               P ER EH N
+)PARENS              P ER EH N Z
+)PARENTHESES         P ER EH N TH AH S IY Z
+)RIGHT-PAREN         R AY T P EH R AH N
+)RIGHT-PAREN(2)      R AY T P ER EH N
+)UN-PARENTHESES      AH N P ER EH N TH AH S IY Z
+,COMMA               K AA M AH
+-DASH                D AE SH
+-HYPHEN              HH AY F AH N
+...ELLIPSIS          IH L IH P S IH S
+.DECIMAL             D EH S AH M AH L
+.DOT                 D AA T
+.FULL-STOP           F UH L S T AA P
+.PERIOD              P IH R IY AH D
+.POINT               P OY N T
+/SLASH               S L AE SH
+0MALEFACTORS         M AE L AH F AE K T ER Z
+:COLON               K OW L AH N
+;SEMI-COLON          S EH M IH K OW L AH N
+;SEMI-COLON(2)       S EH M IY K OW L AH N
+?QUESTION-MARK       K W EH S CH AH N M AA R K
